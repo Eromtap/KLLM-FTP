@@ -1,0 +1,19 @@
+1662958783076	geckodriver	INFO	Listening on 127.0.0.1:54733
+1662958786082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\breakdown\\AppData\\Local\\Temp\\rust_mozprofile4JAUiz"
+1662958787001	Marionette	INFO	Marionette enabled
+1662958787007	Marionette	INFO	Listening on port 54746
+WebDriver BiDi listening on ws://localhost:54734
+Read port: 54746
+1662958787405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\breakdown\\AppData\\Local\\Temp\\rust_mozprofile4JAUiz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54734/devtools/browser/08115f17-221a-4ac0-b272-0898637b8d00
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tracking.thermoking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tracking.thermoking.com."
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tracking.thermoking.com."
+1662958837545	Marionette	INFO	Stopped listening on port 54746
+!!! error running onStopped callback: TypeError: callback is not a function
